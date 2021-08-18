@@ -1,4 +1,4 @@
-### Oii! Me chamo Vivian Campos! 
+### Oii! Eu sou Vivian Campos! 
 <div>
   <a href="https://github.com/vivianzzi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivianzzi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
